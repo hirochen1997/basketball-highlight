@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "basketball-highlight",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6ac6e99c-797d-4d0e-afe9-714887da2990",
+			"database_name": "basketball-highlight"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
